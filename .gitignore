@@ -178,3 +178,17 @@ credentials.json
 # Local development
 .local/
 local/
+
+# Mailchimp Newsletter Downloader - Project Specific Files
+# Add these lines to your existing .gitignore
+
+# Downloaded newsletters (can be large)
+mailchimp_newsletters/
+
+# Generated CSV reports
+mailchimp_newsletters.csv
+*_newsletters.csv
+
+# Mailchimp API credentials (already covered by your *.env rule, but being explicit)
+# .env (already in your file)
+# credentials.json (already in your file)
