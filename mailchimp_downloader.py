@@ -1,3 +1,7 @@
+# Copyright (C) 2025 Jason Brett
+# Licensed under the GNU General Public License v3.0 or later.
+# See LICENSE file in the project root for full license text.
+
 #!/usr/bin/env python3
 """
 Mailchimp Newsletter Downloader

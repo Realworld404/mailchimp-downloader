@@ -1,3 +1,6 @@
+# Copyright (C) 2025 Jason Brett
+# Licensed under the GNU General Public License v3.0 or later.
+# See LICENSE file in the project root for full license text.
 # Mailchimp Newsletter Downloader
 
 Download all your historical newsletters from Mailchimp as markdown files with performance metrics.
